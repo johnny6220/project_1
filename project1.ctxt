@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=infile
+comment0.target=java.util.ArrayList\ words(java.util.Scanner)
+comment0.text=\r\n\ i\ need\ to\ make\ an\ arraylist\ to\ iterate\ over\r\n\ i\ will\ read\ in\ a\ file\ with\ a\ scanner\r\n
+comment1.params=hm
+comment1.target=void\ checker(java.util.HashMap)
+comment1.text=\r\n\ this\ method\ will\ print\ the\ hashmap\ keys\ and\ values\r\n\ may\ be\ temporary.\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
